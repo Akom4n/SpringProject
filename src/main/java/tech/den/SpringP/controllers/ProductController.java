@@ -25,6 +25,4 @@ public class ProductController {
 		BeanUtils.copyProperties(productRecordDto, productModel);
 		return ResponseEntity.status(HttpStatus.CREATED).body(productRepository.save(productModel));
 	}
-		
-	
 }
