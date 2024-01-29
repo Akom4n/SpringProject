@@ -1,1 +1,1 @@
-<h1>Esse projeto de estudo tem como base construir uma API RESTful completa utilizando as novas versões do Spring Boot 3, Spring Framework 6 e Java 17 e seguindo o Modelo de Maturidade de Richardson!</h1>
+<h3>Esse projeto de estudo tem como base construir uma API RESTful completa utilizando as novas versões do Spring Boot 3, Spring Framework 6 e Java 17 e seguindo o Modelo de Maturidade de Richardson!</h3>
