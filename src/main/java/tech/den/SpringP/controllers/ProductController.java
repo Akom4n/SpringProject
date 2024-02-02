@@ -84,6 +84,4 @@ public class ProductController {
 		productRepository.delete(product0.get());
 		return ResponseEntity.status(HttpStatus.OK).body("Product deleted successfully.");
 	}
-	
-	//Sorry, hj não teve estudo amigo kkkk bom, teve, mas nn teve pratica
 }
